@@ -9,7 +9,7 @@
 
 ## 👾 Saudações Desenvolvedores 👾!
 
-Sou um jovem de 17 anos, moro em SC e estou estou iniciando na área de programação. Me motivo com estudar, em desenhar, desenvolver designs e gosto de ouvir rock/heavy metal enquanto coloco minhas ideias em prática, estou determinado em melhorar a cada dia 📈.
+Sou um jovem de 17 anos, moro em SC e estou estou iniciando na área de programação. Sou motivado em estudar, em desenhar, desenvolver designs e gosto de ouvir rock/heavy metal enquanto coloco minhas ideias em prática, estou determinado em melhorar a cada dia 📈.
 
 <div class= "container" align= "center">
    <img src= "https://i.pinimg.com/736x/76/4b/26/764b2605d1789f1e3c1898ecb6ea6947.jpg">
