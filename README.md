@@ -1,4 +1,3 @@
-# 🔎 João Vitor Gieseler Tomelin
 <div align="center">
 
   <!-- Header Banner -->
