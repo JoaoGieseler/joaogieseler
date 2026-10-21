@@ -10,7 +10,7 @@
   </p>
 
   <!-- Badges de contato/redes -->
-  <a href="[https://www.linkedin.com/in/joaovitorgtomelin](https://www.linkedin.com/in/jo%C3%A3o-gieseler-3727b3293/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gieseler-3727b3293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joaovitorgtomelin@gmail.com">
